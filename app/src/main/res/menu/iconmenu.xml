@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menu_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home"/>
+        <item android:id="@+id/menu_profile"
+            android:icon="@drawable/ic_baseline_account_box_24"
+            android:title="Profile"/>
+        <item android:id="@+id/menu_aboutus"
+            android:icon="@drawable/ic_baseline_language_24"
+            android:title="About us"/>
+        <item android:id="@+id/menu_rateus"
+            android:icon="@drawable/ic_baseline_wb_sunny_24"
+            android:title="Rate us"/>
+    </group>
+    <item android:title="Must read">
+        <menu>
+            <item android:id="@+id/menu_tips"
+                android:icon="@drawable/ic_baseline_spa_24"
+                android:title="Tips"/>
+            <item android:id="@+id/menu_laws"
+                android:icon="@drawable/ic_baseline_account_balance_24"
+                android:title="Laws"/>
+        </menu>
+    </item>
+</menu>

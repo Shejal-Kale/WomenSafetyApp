@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item android:id="@+id/menu_tips"
+        android:icon="@drawable/ic_baseline_spa_24"
+        android:title="Tips"/>
+    <item android:id="@+id/menu_laws"
+        android:icon="@drawable/ic_baseline_account_balance_24"
+        android:title="Laws"/>
+    <item android:id="@+id/menu_escape"
+        android:icon="@drawable/ic_baseline_transfer_within_a_station_24"
+        android:title="Escape"/>
+    <item android:id="@+id/menu_defense"
+        android:icon="@drawable/ic_baseline_sports_kabaddi_24"
+        android:title="Defense"/>
+</menu>

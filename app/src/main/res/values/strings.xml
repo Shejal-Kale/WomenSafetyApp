@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Her Safety</string>
+    <string name="title_activity_emergency_contacts">ScrollingActivity</string>
+    <string name="large_text">"3 Reasons Women Need to Learn Self-Defence\n"+
+        "•	Self-defence helps women protect themselves and family.\n"+
+•	Self-defence builds confidence in women
+•	Self-defence teaches women discipline, and that discipline transfers over to all other areas of their lives.
+    </string>
+
+    <string name="open">customNavigation</string>
+    <string name="close">customNavigation</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
